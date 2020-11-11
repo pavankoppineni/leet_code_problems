@@ -15,7 +15,7 @@ namespace LeetCodeProblems.Tests.BinarySearchProblems
             //Given
             var values = new int[] { 30, 11, 23, 4, 20 };
             var numberOfHours = 35;
-            var expectedResult = 23;
+            var expectedResult = 3;
             var problem = new LeetCode_875_V1();
 
             //When
