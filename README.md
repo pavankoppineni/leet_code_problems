@@ -1,5 +1,10 @@
 # Leet Code Problems
 
+### Resources
+
+* https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
+
+
 ### Binary Search Problems
 
 * [Leetcode 1283 : Find the Smallest Divisor Given a Threshold](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_1283_V1.cs)
