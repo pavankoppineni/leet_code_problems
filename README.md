@@ -9,7 +9,6 @@
 * [Leetcode 307 : Range Sum Query - Mutable](./src/LeetCodeProblems/ArrayProblems/LeetCode_307_RangeSumQueryMutable_V1.cs)
 * [Leetcode 347 : Top K Frequent elements](./src/LeetCodeProblems/ArrayProblems/LeetCode_347_TopKFrequentElements_V1.cs)
 
-
 ### Binary Search Problems
 
 * [Leetcode 1283 : Find the Smallest Divisor Given a Threshold](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_1283_V1.cs)
