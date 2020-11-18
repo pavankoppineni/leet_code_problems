@@ -14,6 +14,8 @@
 * [Leetcode 1283 : Find the Smallest Divisor Given a Threshold](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_1283_V1.cs)
 * [Leetcode 875 : Koko Eating Bananas](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_875_V1.cs)
 * [Leetcode 33 : Search in rotated sorted array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_33_V1.cs)
+* [Leetcode 34 : Find First and Last Position of Element in Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_34_FindFirstAndLastPositionOfElementInSortedArray_V1.cs)
+* [Leetcode 153 : Find Minimum in Rotated Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_153_FindMinimumInRotatedSortedArray_V1.cs)
 
 
 ### Dynamic Programming
