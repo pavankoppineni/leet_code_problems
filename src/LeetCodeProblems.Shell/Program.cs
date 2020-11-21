@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LeetCodeProblems.Shell
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
         }
     }
