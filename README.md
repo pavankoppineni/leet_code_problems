@@ -11,6 +11,8 @@
 * [Leetcode 75 : Sort colors](./src/LeetCodeProblems/ArrayProblems/Leetcode_75_SortColors_V1.cs)
 * [Leetcode 287 : Find the duplicate number](./src/LeetCodeProblems/ArrayProblems/Leetcode_287_FindTheDuplicateNumber_V1.cs)
 * [Leetcode 215 : Kth largest element in array](./src/LeetCodeProblems/ArrayProblems/Leetcode_215_KthLargestElementInAnArray_V1.cs)
+* [Leetcode 41 : Find missing positive number](./src/LeetCodeProblems/ArrayProblems/Leetcode_41_FindMissingPositive_V1.cs)
+* [Leetcode 295 : Find median from data stream](./src/LeetCodeProblems/ArrayProblems/Leetcode_295_FindMedianFromDataStream_V1.cs)
 
 ### Binary Search Problems
 
