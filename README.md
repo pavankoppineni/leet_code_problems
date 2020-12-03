@@ -14,7 +14,8 @@
 * [Leetcode 41 : Find missing positive number](./src/LeetCodeProblems/ArrayProblems/Leetcode_41_FindMissingPositive_V1.cs)
 * [Leetcode 295 : Find median from data stream](./src/LeetCodeProblems/ArrayProblems/Leetcode_295_FindMedianFromDataStream_V1.cs)
 * [Leetcode 56 : Merge intervals](./src/LeetCodeProblems/ArrayProblems/Leetcode_56_MergeIntervals_V1.cs)
-* [Leetcode_57 : Insert new interval](./src/LeetCodeProblems/ArrayProblems/LeetCode_57_InsertInterval_V1.cs)
+* [Leetcode 57 : Insert new interval](./src/LeetCodeProblems/ArrayProblems/LeetCode_57_InsertInterval_V1.cs)
+* [Leetcode 31 : Next permutation](./src/LeetCodeProblems/ArrayProblems/Leetcode_31_NextPermutation_V1.cs)
 
 ### Binary Search Problems
 
