@@ -16,7 +16,7 @@
 * [Leetcode 56 : Merge intervals](./src/LeetCodeProblems/ArrayProblems/Leetcode_56_MergeIntervals_V1.cs)
 * [Leetcode 57 : Insert new interval](./src/LeetCodeProblems/ArrayProblems/LeetCode_57_InsertInterval_V1.cs)
 * [Leetcode 31 : Next permutation](./src/LeetCodeProblems/ArrayProblems/Leetcode_31_NextPermutation_V1.cs)
-* ![#f03c15][Leetcode 581 : Shortest unsorted continuous subarray (in progress)](./src/LeetCodeProblems/ArrayProblems/Leetcode_581_ShortestUnsortedContinuousSubarray_V1.cs)
+* [Leetcode 581 : Shortest unsorted continuous subarray (in progress)](./src/LeetCodeProblems/ArrayProblems/Leetcode_581_ShortestUnsortedContinuousSubarray_V1.cs)
 
 ### Binary Search Problems
 
