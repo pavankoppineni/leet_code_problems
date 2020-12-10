@@ -34,3 +34,7 @@
 * [Leetcode 303 : Range Sum Query - Immutable](./src/LeetCodeProblems/DynamicProgramming/LeetCode_303_RangeSumQueryImmutableV1.cs)
 * [Leetcode 304 : Range Sum Query 2D - Immutable](./src/LeetCodeProblems/DynamicProgramming/LeetCode_304_RangeSumQuery2DImmutableV1.cs)
 
+### String Problems
+
+* [Leetcode 387 : First Unique Character in a String](./src/LeetCodeProblems/StringProblems/Leetcode_387_FirstUniqueCharacterInString_V1.cs)
+
