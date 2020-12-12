@@ -19,6 +19,7 @@
 * [Leetcode 581 : Shortest unsorted continuous subarray (in progress)](./src/LeetCodeProblems/ArrayProblems/Leetcode_581_ShortestUnsortedContinuousSubarray_V1.cs)
 * [Leetocde 46 : Permutations](./src/LeetCodeProblems/ArrayProblems/Leetcode_46_Permutations_V1.cs)
 * [Leetcode 47 : Permutations II](./src/LeetCodeProblems/ArrayProblems/Leetcode_47_PermutationsII_V1.cs)
+* [Leetcode 496 : Next Greater Element I](./src/LeetCodeProblems/ArrayProblems/Leetcode_496_Next_Greater_ElementI_V1.cs)
 
 ### Binary Search Problems
 
