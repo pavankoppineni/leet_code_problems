@@ -45,5 +45,5 @@
 ### Tree Problems
 
 * [Leetcode 515 : Find Largest Value In Each Tree Row](./src/LeetCodeProblems/TreeProblems/Leetcode_515_FindLargestValueInEachTreeRow_V1.cs)
-* [Leetcode 103 : Binary Tree Zigzag Level Order Travel](./src/LeetCodeProblems/TreeProblems/Leetcode_103_Leetcode_103_BinaryTreeZigzagLevelOrderTraversal_V1.cs)
+* [Leetcode 103 : Binary Tree Zigzag Level Order Travel](./src/LeetCodeProblems/TreeProblems/Leetcode_103_BinaryTreeZigzagLevelOrderTraversal_V1.cs)
 
