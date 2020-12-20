@@ -16,18 +16,65 @@ namespace LeetCodeProblems.MatrixProblems
                 return Array.Empty<int>();
             }
 
-            var orderIndex = 0;
-            var order = new List<int>();
+            var spiralOrderItems = new List<int>();
 
-            //Start row and end row details
-            var startRowInclusive = 0;
-            var endRowExclusive = matrix.Length;
+            //Row index values
+            var startRow = 0;
+            var endRow = matrix.Length;
 
-            //Start column and end column details
-            var startColumnInclusive = 0;
-            var endColumnExclusive = matrix[0].Length;
+            //Column index values
+            var startColumn = 0;
+            var endColumn = matrix[0].Length;
 
-            return order;
+            while (true)
+            {
+                if (startRow >= endRow && startColumn >= endColumn)
+                {
+                    break;
+                }
+
+                //Travserse row from left to right
+                if (startRow < endRow)
+                {
+                    for (var column = startColumn; column < endColumn; column++)
+                    {
+                        spiralOrderItems.Add(matrix[startRow][column]);
+                    }
+                    startRow += 1;
+                }
+
+                //Traverse column from top to bottom
+                if (startColumn < endColumn)
+                {
+                    for (var row = startRow; row < endRow; row++)
+                    {
+                        spiralOrderItems.Add(matrix[row][endColumn - 1]);
+                    }
+                    endColumn -= 1;
+                }
+
+                //Traverse row from right to left
+                if (startRow < endRow)
+                {
+                    for (var column = endColumn - 1; column >= startColumn; column--)
+                    {
+                        spiralOrderItems.Add(matrix[endRow - 1][column]);
+                    }
+                    endRow -= 1;
+                }
+
+                //Traverse column from bottom to top
+                if (startColumn < endColumn)
+                {
+                    for (var row = endRow - 1; row >= startRow; row--)
+                    {
+                        spiralOrderItems.Add(matrix[row][startColumn]);
+                    }
+                    startColumn += 1;
+                }
+            }
+
+            return spiralOrderItems;
         }
     }
 }
