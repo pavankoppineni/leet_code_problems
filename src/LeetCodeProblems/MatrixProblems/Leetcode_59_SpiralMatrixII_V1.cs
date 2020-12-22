@@ -7,7 +7,7 @@ namespace LeetCodeProblems.MatrixProblems
     /// <summary>
     /// https://leetcode.com/problems/spiral-matrix-ii/
     /// </summary>
-    public class Leetcode_54_SpiralMatrixII_V1
+    public class Leetcode_59_SpiralMatrixII_V1
     {
         public int[][] GenerateMatrix(int n)
         {
