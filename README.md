@@ -21,6 +21,7 @@
 * [Leetcode 47 : Permutations II](./src/LeetCodeProblems/ArrayProblems/Leetcode_47_PermutationsII_V1.cs)
 * [Leetcode 496 : Next Greater Element I](./src/LeetCodeProblems/ArrayProblems/Leetcode_496_Next_Greater_ElementI_V1.cs)
 * [Leetcode 11 : Container With Most Water](./src/LeetCodeProblems/ArrayProblems/Leetcode_11_ContianerWithMostWater_V1.cs)
+* [Leetcode 977 : Squares of Sorted Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_977_SquaresOfSortedArray_V1.cs)
 
 ### Binary Search Problems
 
