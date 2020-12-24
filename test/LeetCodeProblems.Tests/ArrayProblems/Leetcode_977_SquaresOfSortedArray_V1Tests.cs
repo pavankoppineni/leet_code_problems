@@ -13,7 +13,7 @@ namespace LeetCodeProblems.Tests.ArrayProblems
         public void Given_ArrayOfIntegers_When_SquaresSorted_Then_ShouldReturnArraySortedByTheirSquares()
         {
             //Given
-            var values = new int[] { -5, -3, -2, -1 };
+            var values = new int[] { -4, -1, 0, 3, 10 };
             var problem = new Leetcode_977_SquaresOfSortedArray_V1();
             var expectedResult = new int[] { 0, 1, 9, 16, 100 };
 
