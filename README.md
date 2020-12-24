@@ -47,7 +47,7 @@
 
 * [Leetcode 515 : Find Largest Value In Each Tree Row](./src/LeetCodeProblems/TreeProblems/Leetcode_515_FindLargestValueInEachTreeRow_V1.cs)
 * [Leetcode 103 : Binary Tree Zigzag Level Order Travel](./src/LeetCodeProblems/TreeProblems/Leetcode_103_BinaryTreeZigzagLevelOrderTraversal_V1.cs)
-* [Leetcode 226 : Invert Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_266_InvertBinaryTree_V1.cs)
+* [Leetcode 226 : Invert Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_226_InvertBinaryTree_V1.cs)
 
 ### Matrix Problems
 
