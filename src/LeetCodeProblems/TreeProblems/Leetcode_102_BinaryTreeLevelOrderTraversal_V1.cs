@@ -29,7 +29,7 @@ namespace LeetCodeProblems.TreeProblems
             if (level >= levelOrderItems.Count)
             {
                 levelOrderItems.Add(new List<int>());
-            }
+            }   
             LevelOrderTraversal(node.Left, level + 1);
             levelOrderItems[level].Add(node.Value);
             LevelOrderTraversal(node.Right, level + 1);
