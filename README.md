@@ -25,6 +25,7 @@
 * [Leetcode 905 : Sort Array By Parity](./src/LeetCodeProblems/ArrayProblems/Leetcode_905_SortArrayByParity_V1.cs)
 * [Leetcode 922 : Sort Array By Parity II](./src/LeetCodeProblems/ArrayProblems/Leetcode_922_SortArrayByParityII_V1.cs)
 * [Leetcode 136 : Single Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_136_SingleNumber_V1.cs)
+* [Leetcode 565 : Array Nesting](./src/LeetCodeProblems/ArrayProblems/Leetcode_565_ArrayNesting_V1.cs)
 
 ### Binary Search Problems
 
