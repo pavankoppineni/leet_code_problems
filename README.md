@@ -54,7 +54,7 @@
 * [Leetcode 103 : Binary Tree Zigzag Level Order Travel](./src/LeetCodeProblems/TreeProblems/Leetcode_103_BinaryTreeZigzagLevelOrderTraversal_V1.cs)
 * [Leetcode 102 : Binary Tree Level Order Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_102_BinaryTreeLevelOrderTraversal_V1.cs)
 * [Leetcode 226 : Invert Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_226_InvertBinaryTree_V1.cs)
-* [Leetcode 108 : Convert Sorted Array To Binary Search Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_108_ConvertSortedArrayToBinarySearchTree_V1.cs)
+* [Leetcode 98 : Validate Binary Search Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_98_ValidateBinarySearchTree_V1.cs)
 
 ### Matrix Problems
 
