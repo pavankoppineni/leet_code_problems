@@ -12,72 +12,40 @@ namespace LeetCodeProblems.TreeProblems
     {
         public bool IsValidBST(TreeNode node)
         {
-            return IsValidBST(node.Value, node);
+            return IsValidBST(node, null, null);
         }
 
-        private bool IsValidBST(int parent, TreeNode node)
+        private bool IsValidBST(TreeNode node, TreeNode left, TreeNode right)
         {
-            if(node == null)
+            if (node == null)
             {
                 return true;
             }
 
-            var left = node.Left;
-            var right = node.Right;
-
-            bool leftTreeResult;
-            bool rightTreeResult;
-
-            //Case 1 : Validate left node
-            if(left != null)
+            //Case 1 : When left node is not null
+            if (left != null)
             {
-                if (left.Value > node.Value)
+                if (node.Value <= left.Value)
                 {
                     return false;
                 }
             }
 
-            //Case 2 : Validate right node
-            if(right != null)
+            //Case 2 : When right node is not null
+            if (right != null)
             {
-                if (right.Value < node.Value)
-                {
-                    return false;
-                }
-
-                if(right.Value > parent)
+                if (node.Value >= right.Value)
                 {
                     return false;
                 }
             }
 
-            //Check One : Check left side of tree
-            leftTreeResult = IsValidBST(node.Value, node.Left);
-            if (leftTreeResult)
-            {
-                rightTreeResult = IsValidBST(node.Value, node.Right);
-            }
-            else
+            var isLeftValid = IsValidBST(node.Left, left, node);
+            if (!isLeftValid)
             {
                 return false;
             }
-
-            if (rightTreeResult)
-            {
-                //Check 1 : Check left value
-                if (left != null)
-                {
-
-                }
-
-                //Check 2 : Check right value
-                if (right != null)
-                {
-
-                }
-            }
-
-            return false;
+            return IsValidBST(node.Right, node, right);
         }
     }
 }

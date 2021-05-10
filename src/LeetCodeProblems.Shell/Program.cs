@@ -7,6 +7,8 @@ namespace LeetCodeProblems.Shell
     {
         public static void Main()
         {
+            var a = 2147483647;
+            var max = a >= int.MaxValue;
         }
     }
 }
