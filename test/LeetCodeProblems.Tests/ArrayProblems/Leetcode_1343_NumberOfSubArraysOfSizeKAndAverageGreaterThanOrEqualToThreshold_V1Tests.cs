@@ -7,7 +7,7 @@ using System.Text;
 namespace LeetCodeProblems.Tests.ArrayProblems
 {
     [TestClass]
-    public class Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOr_EqualToThreshold_V1Tests
+    public class Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_V1Tests
     {
         [TestMethod]
         public void Given_ArrayOfIntegersAndThreshold_When_FindNumberOfSubArrays_Then_ShouldReturnNumberOfSubArrays()
