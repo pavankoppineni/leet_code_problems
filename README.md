@@ -28,6 +28,7 @@
 * [Leetcode 565 : Array Nesting](./src/LeetCodeProblems/ArrayProblems/Leetcode_565_ArrayNesting_V1.cs)
 * [Leetcode 108 : Convert Sorted Array to Binary Search Tree](./src/LeetCodeProblems/ArrayProblems/Leetcode_108_ConvertSortedArrayToBinarySearchTree_V1.cs)
 * [Leetcode 1299 : Replace Element With Greatest Element On Rightside](./src/LeetCodeProblems/ArrayProblems/Leetcode_1299_ReplaceElementWithGreatestElementOnRightSide_V1.cs)
+* [Leetcode 1343 : Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./src/LeetCodeProblems/ArrayProblems/Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOr_EqualToThreshold_V1Tests.cs)
 
 ### Binary Search Problems
 
