@@ -4,6 +4,10 @@
 
 * https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
 
+### Math Problems
+
+* [Leetcode 9 : Palindrome Number](./src/LeetCodeProblems/MathProblems/Leetcode_9_PalindromeNumber_V1.cs)
+
 ### Array Problems
 
 * [Leetcode 307 : Range Sum Query - Mutable](./src/LeetCodeProblems/ArrayProblems/LeetCode_307_RangeSumQueryMutable_V1.cs)
