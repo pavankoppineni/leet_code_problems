@@ -6,6 +6,7 @@
 
 ### Array Problems
 
+* [Leetcode 9 : Palindrome Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_9_PalindromeNumber_V1.cs)
 * [Leetcode 307 : Range Sum Query - Mutable](./src/LeetCodeProblems/ArrayProblems/LeetCode_307_RangeSumQueryMutable_V1.cs)
 * [Leetcode 347 : Top K Frequent elements](./src/LeetCodeProblems/ArrayProblems/LeetCode_347_TopKFrequentElements_V1.cs)
 * [Leetcode 75 : Sort colors](./src/LeetCodeProblems/ArrayProblems/Leetcode_75_SortColors_V1.cs)
