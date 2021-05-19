@@ -4,6 +4,10 @@
 
 * https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
 
+### Sliding Window Problems
+
+* [Leetcode 1423 : Maximum Points You Can Obtain From Cards](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_1423_MaximumPointsYouCanObtainFromCards_V1.cs)
+
 ### Math Problems
 
 * [Leetcode 9 : Palindrome Number](./src/LeetCodeProblems/MathProblems/Leetcode_9_PalindromeNumber_V1.cs)
