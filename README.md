@@ -42,6 +42,7 @@
 * [Leetcode 1343 : Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./src/LeetCodeProblems/ArrayProblems/Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_V1.cs) 
 * [Leetcode 268 : Missing Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_268_MissingNumber_V1.cs)
 * [Leetcode 526 : Beautiful Arrangement](./src/LeetCodeProblems/ArrayProblems/Leetcode_526_BeautifulArrangement_V1.cs)
+* [Leetcode 667 : Beautiful Arrangement II [In Progress]](./src/LeetCodeProblems/ArrayProblems/Leetcode_667_BeautifulArrangementII_V1.cs)
 
 ### Binary Search Problems
 
