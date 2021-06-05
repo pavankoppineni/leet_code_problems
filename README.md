@@ -42,6 +42,7 @@
 * [Leetcode 1343 : Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./src/LeetCodeProblems/ArrayProblems/Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_V1.cs) 
 * [Leetcode 268 : Missing Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_268_MissingNumber_V1.cs)
 * [Leetcode 526 : Beautiful Arrangement](./src/LeetCodeProblems/ArrayProblems/Leetcode_526_BeautifulArrangement_V1.cs)
+* [Leetcode 667 : Beautiful Arrangement II [In Progress]](./src/LeetCodeProblems/ArrayProblems/Leetcode_667_BeautifulArrangementII_V1.cs)
 
 ### Binary Search Problems
 
@@ -50,6 +51,7 @@
 * [Leetcode 33 : Search in rotated sorted array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_33_V1.cs)
 * [Leetcode 34 : Find First and Last Position of Element in Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_34_FindFirstAndLastPositionOfElementInSortedArray_V1.cs)
 * [Leetcode 153 : Find Minimum in Rotated Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_153_FindMinimumInRotatedSortedArray_V1.cs)
+
 
 
 ### Dynamic Programming
@@ -70,6 +72,7 @@
 * [Leetcode 102 : Binary Tree Level Order Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_102_BinaryTreeLevelOrderTraversal_V1.cs)
 * [Leetcode 226 : Invert Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_226_InvertBinaryTree_V1.cs)
 * [Leetcode 98 : Validate Binary Search Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_98_ValidateBinarySearchTree_V1.cs)
+* [Leetcode 104 : Maximum Depth Of Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_104_MaximumDepthOfBinaryTree_V1.cs)
 
 ### Matrix Problems
 
