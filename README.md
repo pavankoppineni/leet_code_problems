@@ -40,6 +40,8 @@
 * [Leetcode 108 : Convert Sorted Array to Binary Search Tree](./src/LeetCodeProblems/ArrayProblems/Leetcode_108_ConvertSortedArrayToBinarySearchTree_V1.cs)
 * [Leetcode 1299 : Replace Element With Greatest Element On Rightside](./src/LeetCodeProblems/ArrayProblems/Leetcode_1299_ReplaceElementWithGreatestElementOnRightSide_V1.cs)
 * [Leetcode 1343 : Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./src/LeetCodeProblems/ArrayProblems/Leetcode_1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold_V1.cs) 
+* [Leetcode 268 : Missing Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_268_MissingNumber_V1.cs)
+* [Leetcode 526 : Beautiful Arrangement](./src/LeetCodeProblems/ArrayProblems/Leetcode_526_BeautifulArrangement_V1.cs)
 
 ### Binary Search Problems
 
