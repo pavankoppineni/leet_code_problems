@@ -52,6 +52,11 @@
 * [Leetcode 34 : Find First and Last Position of Element in Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_34_FindFirstAndLastPositionOfElementInSortedArray_V1.cs)
 * [Leetcode 153 : Find Minimum in Rotated Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_153_FindMinimumInRotatedSortedArray_V1.cs)
 
+### Backtracking Problems
+
+* [Leetcode 46 : Permutations]()
+* [Leetcode 47 : Permutations II]()
+
 
 
 ### Dynamic Programming
