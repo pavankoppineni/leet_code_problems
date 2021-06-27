@@ -16,7 +16,7 @@ namespace LeetCodeProblems.DynamicProgramming
             for (var row = 0; row < arrayOne.Length; row++)
             {
                 for (var column = 0; column < arrayTwo.Length; column++)
-                {
+                {   
                     if (arrayOne[row] == arrayTwo[column])
                     {
                         if (row == 0 || column == 0)
