@@ -55,7 +55,7 @@
 ### Backtracking Problems
 
 * [Leetcode 46 : Permutations](.src/LeetCodeProblems/BacktrackingProblems/Leetcode_46_Permutations_V1.cs)
-* [Leetcode 47 : Permutations II](src/LeetCodeProblems/BacktrackingProblems/Leetcode_47_Permutations_V1.cs)
+* [Leetcode 47 : Permutations II](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_47_Permutations_V1.cs)
 
 
 
