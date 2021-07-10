@@ -16,13 +16,13 @@ namespace LeetCodeProblems.Tests.DynamicProgramming
             var numberOfRows = 3;
             var numberOfColumns = 3;
             var problem = new LeetCode_42_UniquePaths_V1();
-            var expectedResult = 1;
+            var expectedResult = 6;
 
             //When
             var actualResult = problem.FindNumberOfUniquePaths(numberOfRows, numberOfColumns);
 
             //Then
-            Assert.Fail();
+            Assert.AreEqual(expectedResult, actualResult);
         }
     }
 }
