@@ -58,6 +58,8 @@
 * [Leetcode 47 : Permutations II](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_47_PermutationsII_V1.cs)
 * [Leetcode 78 : Subsets](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_78_Subsets_V2.cs)
 * [Leetcode 39 : Combination Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_39_CombinationSum_V1.cs)
+* [Leetcode 42 : Unique Paths](./src/LeetCodeProblems/DynamicProgramming/LeetCode_42_UniquePaths_V1.cs)
+* [Leetcode 64 : Minimum Path Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_64_MinimumPathSum_V1.cs)
 
 
 
