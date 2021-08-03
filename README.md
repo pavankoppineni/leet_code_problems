@@ -52,6 +52,7 @@
 * [Leetcode 33 : Search in rotated sorted array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_33_V1.cs)
 * [Leetcode 34 : Find First and Last Position of Element in Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_34_FindFirstAndLastPositionOfElementInSortedArray_V1.cs)
 * [Leetcode 153 : Find Minimum in Rotated Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_153_FindMinimumInRotatedSortedArray_V1.cs)
+* [Leetcode 540 : Single Element in a Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_540_SingleElementInASortedArray_V1.cs)
 
 ### Backtracking Problems
 
@@ -59,8 +60,6 @@
 * [Leetcode 47 : Permutations II](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_47_PermutationsII_V1.cs)
 * [Leetcode 78 : Subsets](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_78_Subsets_V2.cs)
 * [Leetcode 39 : Combination Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_39_CombinationSum_V1.cs)
-
-
 
 
 ### Dynamic Programming
