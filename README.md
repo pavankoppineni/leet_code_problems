@@ -43,6 +43,7 @@
 * [Leetcode 268 : Missing Number](./src/LeetCodeProblems/ArrayProblems/Leetcode_268_MissingNumber_V1.cs)
 * [Leetcode 526 : Beautiful Arrangement](./src/LeetCodeProblems/ArrayProblems/Leetcode_526_BeautifulArrangement_V1.cs)
 * [Leetcode 667 : Beautiful Arrangement II [In Progress]](./src/LeetCodeProblems/ArrayProblems/Leetcode_667_BeautifulArrangementII_V1.cs)
+* [Leetcode 962 : Maximum Width Ramp](./src/LeetCodeProblems/ArrayProblems/Leetcode_962_MaximumWidthRamp_V1.cs)
 
 ### Binary Search Problems
 
