@@ -84,6 +84,7 @@
 * [Leetcode 387 : First Unique Character in a String](./src/LeetCodeProblems/StringProblems/Leetcode_387_FirstUniqueCharacterInString_V1.cs)
 * [Leetcode 451 : Sort Characters By Frequency](./src/LeetCodeProblems/StringProblems/Leetcode_451_SortCharactersByFrequency_V1.cs)
 * [Leetcode 848 : Shifting Letters](./src/LeetCodeProblems/StringProblems/Leetcode_848_ShiftingLetters_V1.cs)
+* [Leetcode 856 : Score of parantheses](./src/LeetCodeProblems/StringProblems/Leetcode_856_ScoreOfParantheses)
 
 ### Tree Problems
 
