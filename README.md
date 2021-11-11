@@ -65,6 +65,7 @@
 * [Leetcode 78 : Subsets](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_78_Subsets_V2.cs)
 * [Leetcode 39 : Combination Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_39_CombinationSum_V1.cs)
 * [Leetcode 77 : Combinations](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_46_Permutations_V1.cs)
+* [Geeks for Geeks : Subset Sum](./src/LeetCodeProblems/BacktrackingProblems/GFG_SubsetSum)
 
 
 ### Dynamic Programming
@@ -91,6 +92,7 @@
 * [Leetcode 226 : Invert Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_226_InvertBinaryTree_V1.cs)
 * [Leetcode 98 : Validate Binary Search Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_98_ValidateBinarySearchTree_V1.cs)
 * [Leetcode 104 : Maximum Depth Of Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_104_MaximumDepthOfBinaryTree_V1.cs)
+* [Leetcode 637 : Average of Levels in Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_637_AverageOfLevelsInBinaryTree)
 
 ### Matrix Problems
 
