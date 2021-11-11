@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Xml;
+using LeetCodeProblems.DynamicProgramming.GFG_SubsetSum;
 
 namespace LeetCodeProblems.Shell
 {
@@ -10,6 +11,8 @@ namespace LeetCodeProblems.Shell
     {
         public static void Main()
         {
+            var problem = new GFG_SubsetSum_V1();
+            problem.FindSubsetSum(new int[]{3, 4, 5, 2}, 6);
         }
     }
 }
