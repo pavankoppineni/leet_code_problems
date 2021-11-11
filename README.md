@@ -77,6 +77,7 @@
 * [Leetcode 64 : Minimum Path Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_64_MinimumPathSum_V1.cs)
 * [Geeks for geeks : XOR of a subarray (range of elements)](./src/LeetCodeProblems/DynamicProgramming/GeeksForGeeks_XOR_Of_SubArray_V1.cs)
 * [Geeks for geeks : Remove array end element to maximize the sum of product](./src/LeetCodeProblems/DynamicProgramming/RemoveArrayEndElementToMaximizeSumOfProduct)
+* [Geeks for Geeks : Subset Sum](./src/LeetCodeProblems/DynamicProgramming/GFG_SubsetSum)
 
 ### String Problems
 
