@@ -31,18 +31,27 @@ namespace LeetCodeProblems.StackProblems.Leetcode_901_OnlineStockSpan
             while (_values.Count > 0)
             {
                 var topItem = _values.Peek();
-                if (price > topItem.price)
+                if (price >= topItem.price)
                 {
                     _values.Pop();
-                    highestConsecutivePrice = _index - topItem.index;
                 }
                 else
                 {
-                    _values.Push((price, _index));
-                    highestConsecutivePrice = _index - topItem.index;
                     break;
                 }
             }
+
+            if (_values.Count == 0)
+            {
+                highestConsecutivePrice = _index + 1;
+            }
+            else
+            {
+                var topItem = _values.Peek();
+                highestConsecutivePrice = _index - topItem.index;
+            }
+
+            _values.Push((price, _index));
 
             return highestConsecutivePrice;
         }
