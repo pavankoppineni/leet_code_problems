@@ -101,6 +101,7 @@
 * [Leetcode 54 : Spiral Matrix I](./src/LeetCodeProblems/MatrixProblems/Leetcode_54_SpiralMatrix_V1.cs)
 * [Leetcode 59 : Spiral Matrix II](./src/LeetCodeProblems/MatrixProblems/Leetcode_59_SpiralMatrixII_V1.cs)
 * [Leetcode 200 : Number of Islands](./src/LeetCodeProblems/MatrixProblems/Leetcode_200_NumberOfIslands_V1.cs)
+* [Leetcode 73: Set Matrix Zeroes](./src/LeetCodeProblems/MatrixProblems/LeetCode_73_SetMatrixZeroes/LeetCode_73_SetMatrixZeroes_V1.cs)
 
 ### Stack Problems
 
