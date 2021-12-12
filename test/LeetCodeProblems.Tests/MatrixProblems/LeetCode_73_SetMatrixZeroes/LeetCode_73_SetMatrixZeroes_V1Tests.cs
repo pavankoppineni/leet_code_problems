@@ -15,9 +15,9 @@ namespace LeetCodeProblems.Tests.MatrixProblems.LeetCode_73_SetMatrixZeroes
             //Given
             var matrix = new int[][]
             {
-                new int[] { 1, 1, 1 },
-                new int[] { 1, 0, 1 },
-                new int[] { 1, 1, 1 }
+                new int[] { 0, 1, 4, 0 },
+                new int[] { 3, 4, 5, 2 },
+                new int[] { 1, 3, 1, 5 }
             };
             var problem = new LeetCode_73_SetMatrixZeroes_V1();
             var expectedMatrix = new int[][]

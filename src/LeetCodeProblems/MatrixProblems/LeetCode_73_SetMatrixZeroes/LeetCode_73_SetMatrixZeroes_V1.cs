@@ -13,6 +13,7 @@ namespace LeetCodeProblems.MatrixProblems.LeetCode_73_SetMatrixZeroes
         {
             var rowsLength = matrix.Length;
             var colsLength = matrix[0].Length;
+            var firstCellZero = matrix[0][0] == 0;
             for (var row = 0; row < matrix.Length; row++)
             {
                 for (var col = 0; col < matrix[row].Length; col++)
@@ -26,7 +27,7 @@ namespace LeetCodeProblems.MatrixProblems.LeetCode_73_SetMatrixZeroes
             }
 
             //Set rows
-            for (var row = 0; row < rowsLength; row++)
+            for (var row = 1; row < rowsLength; row++)
             {
                 if (matrix[row][0] != 0)
                 {
@@ -40,7 +41,7 @@ namespace LeetCodeProblems.MatrixProblems.LeetCode_73_SetMatrixZeroes
             }
 
             //Set columns
-            for (var col = 0; col < colsLength; col++)
+            for (var col = 1; col < colsLength; col++)
             {
                 if (matrix[0][col] != 0)
                 {
@@ -50,6 +51,19 @@ namespace LeetCodeProblems.MatrixProblems.LeetCode_73_SetMatrixZeroes
                 for (var row = 0; row < rowsLength; row++)
                 {
                     matrix[row][col] = 0;
+                }
+            }
+
+            if(firstCellZero)
+            {
+                for (var col = 0; col < colsLength; col++)
+                {
+                    matrix[0][col] = 0;
+                }
+
+                for (var row = 0; row < rowsLength; row++)
+                {
+                    matrix[row][0] = 0;
                 }
             }
 
