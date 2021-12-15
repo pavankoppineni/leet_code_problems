@@ -11,6 +11,7 @@
 ### Math Problems
 
 * [Leetcode 9 : Palindrome Number](./src/LeetCodeProblems/MathProblems/Leetcode_9_PalindromeNumber_V1.cs)
+* [Leetcode 204 : Count Primes](./src/LeetCodeProblems/MathProblems/Leetcode_204_CountPrimes)
 
 ### Array Problems
 
