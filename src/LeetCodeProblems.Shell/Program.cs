@@ -11,8 +11,10 @@ namespace LeetCodeProblems.Shell
     {
         public static void Main()
         {
-            var problem = new Leetcode_856_ScoreOfParatheses_V2();
-            var score = problem.CalculateScore("{}{}");
+            var dict = new HashSet<Tuple<int, int>>();
+            dict.Add(new Tuple<int, int>(1, 2));
+            dict.Add(new Tuple<int, int>(1, 2));
+            dict.Add(new Tuple<int, int>(2, 1));
         }
     }
 }
