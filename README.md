@@ -113,3 +113,7 @@
 ### Greedy Problems
 
 * [Leetcode 55 : Jump Game](./src/LeetCodeProblems/Greedy/Leetcode_55_JumpGame)
+
+### BFS
+
+* [Leetcode 1306 : Jump Game III](./src/LeetCodeProblems/BFS/Leetcode_1306_JumpGame)
