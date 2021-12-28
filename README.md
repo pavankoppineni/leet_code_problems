@@ -81,6 +81,7 @@
 * [Geeks for geeks : Remove array end element to maximize the sum of product](./src/LeetCodeProblems/DynamicProgramming/RemoveArrayEndElementToMaximizeSumOfProduct)
 * [Geeks for Geeks : Subset Sum](./src/LeetCodeProblems/DynamicProgramming/GFG_SubsetSum)
 * [Leetcode 746 : Min Cost Climbing Stairs](./src/LeetCodeProblems/DynamicProgramming/Leetcode_746_MinCostClimbingStairs)
+* [Leetcode 221 : Maximal Square](./src/LeetCodeProblems/DynamicProgramming/Leetcode_221_MaximalSquare)
 
 ### String Problems
 
