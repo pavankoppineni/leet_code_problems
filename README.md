@@ -67,6 +67,7 @@
 * [Leetcode 39 : Combination Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_39_CombinationSum_V1.cs)
 * [Leetcode 77 : Combinations](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_46_Permutations_V1.cs)
 * [Geeks for Geeks : Subset Sum](./src/LeetCodeProblems/BacktrackingProblems/GFG_SubsetSum)
+* [Leetcode 494 : Target Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_494_TargetSum)
 
 
 ### Dynamic Programming
