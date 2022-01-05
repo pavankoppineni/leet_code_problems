@@ -58,6 +58,7 @@
 * [Leetcode 153 : Find Minimum in Rotated Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/LeetCode_153_FindMinimumInRotatedSortedArray_V1.cs)
 * [Leetcode 540 : Single Element in a Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_540_SingleElementInASortedArray_V1.cs)
 * [Leetcode 4 : Median of two sorted arrays(Same size)](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_4_MedianOfTwoSortedArrays_V1.cs)
+* [Leetcode 96 : Unique Binary Search Trees](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_96_UniqueBinarySearchTrees)
 
 ### Backtracking Problems
 
