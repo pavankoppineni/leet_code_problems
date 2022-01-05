@@ -112,6 +112,7 @@
 ### Stack Problems
 
 * [Leetcode 901 : Online Stock Span](./src/LeetCodeProblems/StackProblems/Leetcode_901_OnlineStockSpan)
+* [Leetcode 150 : Evaluate Reverse Polish Notation](./src/LeetCodeProblems/StackProblems/Leetcode_150_EvaluateReversePolishNotation)
 
 ### Greedy Problems
 
