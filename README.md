@@ -102,6 +102,7 @@
 * [Leetcode 104 : Maximum Depth Of Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_104_MaximumDepthOfBinaryTree_V1.cs)
 * [Leetcode 637 : Average of Levels in Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_637_AverageOfLevelsInBinaryTree)
 * [Leetcode 662 : Maximum Width of Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_662_MaximumWidthOfBinaryTree)
+* * [Leetcode 894 : All Possible Full Binary Trees](./src/LeetCodeProblems/TreeProblems/Leetcode_894_AllPossibleFullBinaryTrees)
 
 ### Matrix Problems
 
