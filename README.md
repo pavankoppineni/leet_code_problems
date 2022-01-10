@@ -84,7 +84,7 @@
 * [Leetcode 746 : Min Cost Climbing Stairs](./src/LeetCodeProblems/DynamicProgramming/Leetcode_746_MinCostClimbingStairs)
 * [Leetcode 221 : Maximal Square](./src/LeetCodeProblems/DynamicProgramming/Leetcode_221_MaximalSquare)
 * [Geeks for geeks : Count of subsets with sum equal to X](./src/LeetCodeProblems/GFG_Problems/CountOfSubsetsWithSumEqualToX)
-* [Leetcode 70 : Climbint Stairs](./src/LeetCodeProblems/DynamicProgramming/Leetcode_70_ClimbingStairs_V1)
+* [Leetcode 70 : Climbint Stairs](./src/LeetCodeProblems/DynamicProgramming/Leetcode_70_ClimbingStairs)
 
 ### String Problems
 
