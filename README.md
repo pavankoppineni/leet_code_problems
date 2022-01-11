@@ -135,4 +135,4 @@
 
 * [Leetcode 1338 : Reduce Array Size To Half](./src/LeetCodeProblems/PriorityQueue/Leetcode_1338_ReduceArraySizeToHalf)
 * [Leetcode 1845 : Seat Reservation Manager](./src/LeetCodeProblems/PriorityQueue/Leetcode_1845_SeatReservationManager)
-* [Leetcode 1834 : Single-Threaded CPU](./src/LeetCodeProblems/PriorityQueue/_1834_SingleThreadedCPU)
+* [Leetcode 1834 : Single-Threaded CPU](./src/LeetCodeProblems/PriorityQueue/1834_SingleThreadedCPU)
