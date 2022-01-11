@@ -130,3 +130,9 @@
 ### Linked List Problems
 
 * [Leetcode 114: Flatten Binary Tree to Linked List](./src/LeetCodeProblems/LinkedListProblems/Leetcode_114_FlattenBinaryTreeToLinkedList_V1)
+
+### Priority Queue Problems
+
+* [Leetcode 1338 : Reduce Array Size To Half(java)](./src/LeetCodeProblems/PriorityQueue/Leetcode_1338_ReduceArraySizeToHalf)
+* [Leetcode 1845 : Seat Reservation Manager(java)](./src/LeetCodeProblems/PriorityQueue/Leetcode_1845_SeatReservationManager)
+* [Leetcode 1834 : Single-Threaded CPU(java)](./src/LeetCodeProblems/PriorityQueue/1834_SingleThreadedCPU)
