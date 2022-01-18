@@ -70,6 +70,7 @@
 * [Leetcode 77 : Combinations](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_46_Permutations_V1.cs)
 * [Geeks for Geeks : Subset Sum](./src/LeetCodeProblems/BacktrackingProblems/GFG_SubsetSum)
 * [Leetcode 494 : Target Sum](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_494_TargetSum)
+* [Leetcode 967 : Numbers With Same Consecutive Differences](./src/LeetCodeProblems/BacktrackingProblems/Leetcode_967_NumbersWithSameConsecutiveDifferences)
 
 
 ### Dynamic Programming
