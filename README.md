@@ -141,3 +141,7 @@
 * [Leetcode 1338 : Reduce Array Size To Half(java)](./src/LeetCodeProblems/PriorityQueue/Leetcode_1338_ReduceArraySizeToHalf)
 * [Leetcode 1845 : Seat Reservation Manager(java)](./src/LeetCodeProblems/PriorityQueue/Leetcode_1845_SeatReservationManager)
 * [Leetcode 1834 : Single-Threaded CPU(java)](./src/LeetCodeProblems/PriorityQueue/1834_SingleThreadedCPU)
+
+### Recursion Problems
+
+* [Leetcode 983 : Minimum Cost For Tickets](./src/LeetCodeProblems/DynamicProgramming/Leetcode_983_MinimumCostForTickets)
