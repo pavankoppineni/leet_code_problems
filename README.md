@@ -60,6 +60,7 @@
 * [Leetcode 540 : Single Element in a Sorted Array](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_540_SingleElementInASortedArray_V1.cs)
 * [Leetcode 4 : Median of two sorted arrays(Same size)](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_4_MedianOfTwoSortedArrays_V1.cs)
 * [Leetcode 96 : Unique Binary Search Trees](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_96_UniqueBinarySearchTrees)
+* [Leetcode 1011 : Capacity To Ship Packages Within D Days](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1011_CapacityToShipPackagesWithinDDays)
 
 ### Backtracking Problems
 
