@@ -148,3 +148,4 @@
 ### Recursion Problems
 
 * [Leetcode 983 : Minimum Cost For Tickets](./src/LeetCodeProblems/DynamicProgramming/Leetcode_983_MinimumCostForTickets)
+* [Leetcode 60 : Permutation Sequence](./src/LeetCodeProblems/RecursionProblems/Leetcode_60_PermutationSequence_V1)
