@@ -91,6 +91,7 @@
 * [Geeks for geeks : Count of subsets with sum equal to X](./src/LeetCodeProblems/GFG_Problems/CountOfSubsetsWithSumEqualToX)
 * [Leetcode 70 : Climbint Stairs](./src/LeetCodeProblems/DynamicProgramming/Leetcode_70_ClimbingStairs)
 * [Leetcode 241 : Different Ways to Add Parentheses](./src/LeetCodeProblems/DynamicProgramming/Leetcode_241_DifferentWaysToAddParentheses)
+* [Leetcode 198 : House Robber](./src/LeetCodeProblems/DynamicProgramming/Leetcode_198_HouseRobber)
 
 ### String Problems
 
