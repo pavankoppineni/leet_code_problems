@@ -115,6 +115,7 @@
 * [Leetcode 894 : All Possible Full Binary Trees](./src/LeetCodeProblems/TreeProblems/Leetcode_894_AllPossibleFullBinaryTrees)
 * [Leetcode 993 : Cousins in Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_993_CousinsInBinaryTree)
 * [Leetcode 437 : Path Sum III](./src/LeetCodeProblems/TreeProblems/Leetcode_437_PathSumIII)
+* [Leetcode 105 : Construct Binary Tree from Preorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_105_ConstructBinaryTreeFromPreorderAndInorderTraversal)
 
 ### Matrix Problems
 
@@ -133,6 +134,7 @@
 ### Greedy Problems
 
 * [Leetcode 55 : Jump Game](./src/LeetCodeProblems/Greedy/Leetcode_55_JumpGame)
+* [Leetcode 1561 : Maximum Number of Coins You Can Get](./src/LeetCodeProblems/Greedy/Leetcode_1561_MaximumNumberOfCoinsYouCanGet)
 
 ### BFS
 
