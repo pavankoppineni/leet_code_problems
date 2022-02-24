@@ -116,6 +116,7 @@
 * [Leetcode 993 : Cousins in Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_993_CousinsInBinaryTree)
 * [Leetcode 437 : Path Sum III](./src/LeetCodeProblems/TreeProblems/Leetcode_437_PathSumIII)
 * [Leetcode 105 : Construct Binary Tree from Preorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_105_ConstructBinaryTreeFromPreorderAndInorderTraversal)
+* [Leetcode 106 : Construct Binary Tree from Postorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_106_ConstructBinaryTreeFromPostorderAndInorderTraversal)
 
 ### Matrix Problems
 
