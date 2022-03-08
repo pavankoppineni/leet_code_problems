@@ -95,6 +95,7 @@
 * [Leetcode 241 : Different Ways to Add Parentheses](./src/LeetCodeProblems/DynamicProgramming/Leetcode_241_DifferentWaysToAddParentheses)
 * [Leetcode 198 : House Robber](./src/LeetCodeProblems/DynamicProgramming/Leetcode_198_HouseRobber)
 * [Leetcode 416 : Partition Equal Subset Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_416_PartitionEqualSubsetSum)
+* [Leetcode 799 : Champagne Tower](./src/LeetCodeProbelms/DynamicProgramming/Leetcode_799_ChampagneTower)
 
 ### String Problems
 
