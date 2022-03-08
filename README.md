@@ -51,6 +51,7 @@
 * [Leetcode 1094 : Car Pooling](./src/LeetCodeProblems/ArrayProblems/Leetcode_1094_CarPooling)
 * [Leetcode 1589 : Maximum Sum Obtained of Any Permutation](./src/LeetCodeProblems/ArrayProblems/Leetcode_1589_MaximumSumObtainedOfAnyPermutation)
 * [Leetcode 1572 : Matrix Diagonal Sum](./src/LeetCodeProblems/ArrayProblems/Leetcode_1572_MatrixDiagonalSum)
+* [Leetcode 26 : Remove Duplicates from Sorted Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_26_RemoveDuplicatesFromSortedArray)
 
 ### Binary Search Problems
 
