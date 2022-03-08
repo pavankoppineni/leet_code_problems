@@ -96,6 +96,7 @@
 * [Leetcode 198 : House Robber](./src/LeetCodeProblems/DynamicProgramming/Leetcode_198_HouseRobber)
 * [Leetcode 416 : Partition Equal Subset Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_416_PartitionEqualSubsetSum)
 * [Leetcode 799 : Champagne Tower](./src/LeetCodeProblems/DynamicProgramming/Leetcode_799_ChampagneTower)
+* [Leetcode 191 : Number of 1 Bits](./src/LeetCodeProblems/DynamicProgramming/Leetcode_191_NumberOfOneBits)
 
 ### String Problems
 
