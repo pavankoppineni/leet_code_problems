@@ -7,7 +7,7 @@ namespace LeetCodeProblems.DynamicProgramming.Leetcode_799_ChampagneTower
     /// <summary>
     /// https://leetcode.com/problems/champagne-tower/
     /// </summary>
-    public class Leetcode_799_ChampagneTower_Recursion
+    public class Leetcode_799_ChampagneTower_V1
     {
         private IDictionary<int, double> _table;
         public double ChampagneTower(int glassCount, int rowIndex, int glassIndex)
