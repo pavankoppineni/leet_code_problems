@@ -143,6 +143,7 @@
 ### BFS
 
 * [Leetcode 1306 : Jump Game III](./src/LeetCodeProblems/BFS/Leetcode_1306_JumpGame)
+* [Leetcode 994 : Rotting Oranges](./src/LeetCodeProblems/BFS/Leetcode_994_RottingOranges)
 
 ### Linked List Problems
 
