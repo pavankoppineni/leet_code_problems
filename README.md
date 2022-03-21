@@ -139,6 +139,7 @@
 
 * [Leetcode 55 : Jump Game](./src/LeetCodeProblems/Greedy/Leetcode_55_JumpGame)
 * [Leetcode 1561 : Maximum Number of Coins You Can Get](./src/LeetCodeProblems/Greedy/Leetcode_1561_MaximumNumberOfCoinsYouCanGet)
+* [Leetcode 1007 : Minimum Domino Rotations For Equal Row](./src/LeetCodeProbelms/Greedy/Leetcode_1007_MinimumDominoRotationsForEqualRow)
 
 ### BFS
 
