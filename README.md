@@ -140,6 +140,8 @@
 * [Leetcode 55 : Jump Game](./src/LeetCodeProblems/Greedy/Leetcode_55_JumpGame)
 * [Leetcode 1561 : Maximum Number of Coins You Can Get](./src/LeetCodeProblems/Greedy/Leetcode_1561_MaximumNumberOfCoinsYouCanGet)
 * [Leetcode 1007 : Minimum Domino Rotations For Equal Row](./src/LeetCodeProblems/Greedy/Leetcode_1007_MinimumDominoRotationsForEqualRow)
+* [Leetcode 670 : Maximum Swap](./src/LeetCodeProblems/Greedy/Leetcode_670_MaximumSwap)
+* [Leetcode 402 : Remove K Digits](./src/LeetCodeProblems/Greedy/Leetcode_402_RemoveKDigits)
 
 ### BFS
 
