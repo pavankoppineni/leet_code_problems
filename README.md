@@ -54,6 +54,7 @@
 * [Leetcode 26 : Remove Duplicates from Sorted Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_26_RemoveDuplicatesFromSortedArray)
 * [Leetcode 2099 : Find Subsequence of Length K With the Largest Sum](./src/LeetCodeProblems/ArrayProblems/Leetcode_2099_FindSubsequenceOfLengthKWithLargestSum)
 * [Leetcode 2012 : Sum of Beauty in the Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2012_SumOfBeautyInArray)
+* [Leetcode 2016 : Maximum Difference Between Increasing Elements](./src/LeetCodeProblems/ArrayProblems/Leetcode_2016_MaximumDifferenceBetweenIncreasingElements)
 
 ### Binary Search Problems
 
