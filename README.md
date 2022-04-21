@@ -146,6 +146,7 @@
 * [Leetcode 670 : Maximum Swap](./src/LeetCodeProblems/Greedy/Leetcode_670_MaximumSwap)
 * [Leetcode 402 : Remove K Digits](./src/LeetCodeProblems/Greedy/Leetcode_402_RemoveKDigits)
 * [Leetcode 881 : Boats To Save People](./src/LeetCodeProblems/Greedy/Leetcode_881_BoatsToSavePeople)
+* [Leetcode 870 : Advantage Shuffle](./src/LeetCodeProblems/Greedy/Leetcode_870_AdvantageShuffle)
 
 ### BFS
 
