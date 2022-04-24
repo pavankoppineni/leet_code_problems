@@ -147,7 +147,7 @@
 * [Leetcode 402 : Remove K Digits](./src/LeetCodeProblems/Greedy/Leetcode_402_RemoveKDigits)
 * [Leetcode 881 : Boats To Save People](./src/LeetCodeProblems/Greedy/Leetcode_881_BoatsToSavePeople)
 * [Leetcode 870 : Advantage Shuffle](./src/LeetCodeProblems/Greedy/Leetcode_870_AdvantageShuffle)
-* * [Leetcode 870 : Advantage Shuffle](./src/LeetCodeProblems/Greedy/Leetcode_2078_TwoFurthestHousesWithDifferentColors)
+* [Leetcode 2078 : Two Furthest Houses With Different Colors](./src/LeetCodeProblems/Greedy/Leetcode_2078_TwoFurthestHousesWithDifferentColors)
 
 ### BFS
 
