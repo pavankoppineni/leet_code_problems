@@ -36,15 +36,4 @@ namespace LeetCodeProblems.Greedy.Leetcode_2078_TwoFurthestHousesWithDifferentCo
             return Math.Max(maxDistanceLeft, maxDistanceRight);
         }
     }
-
-    public  class House
-    {
-        public int Color { get; set; }
-        public int Start { get; set; }
-        public int End { get; set; }
-        public static House Create(int color, int index)
-        {
-            return new House { Color = color, Start = index, End = index };
-        }
-    }
 }
