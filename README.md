@@ -55,6 +55,7 @@
 * [Leetcode 2099 : Find Subsequence of Length K With the Largest Sum](./src/LeetCodeProblems/ArrayProblems/Leetcode_2099_FindSubsequenceOfLengthKWithLargestSum)
 * [Leetcode 2012 : Sum of Beauty in the Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2012_SumOfBeautyInArray)
 * [Leetcode 2016 : Maximum Difference Between Increasing Elements](./src/LeetCodeProblems/ArrayProblems/Leetcode_2016_MaximumDifferenceBetweenIncreasingElements)
+* [Leetcode 525 : Contiguous Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_525_ContiguousArray)
 
 ### Binary Search Problems
 
@@ -149,7 +150,6 @@
 * [Leetcode 870 : Advantage Shuffle](./src/LeetCodeProblems/Greedy/Leetcode_870_AdvantageShuffle)
 * [Leetcode 2078 : Two Furthest Houses With Different Colors](./src/LeetCodeProblems/Greedy/Leetcode_2078_TwoFurthestHousesWithDifferentColors)
 * [Leetcode 134 : Gas Station](./src/LeetCodeProblems/Greedy/Leetcode_134_GasStation)
-* [Leetcode 525 : Contiguous Array](./src/LeetCodeProblems/Greedy/Leetcode_525_ContiguousArray)
 
 ### BFS
 
