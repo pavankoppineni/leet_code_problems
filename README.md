@@ -101,6 +101,7 @@
 * [Leetcode 416 : Partition Equal Subset Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_416_PartitionEqualSubsetSum)
 * [Leetcode 799 : Champagne Tower](./src/LeetCodeProblems/DynamicProgramming/Leetcode_799_ChampagneTower)
 * [Leetcode 191 : Number of 1 Bits](./src/LeetCodeProblems/DynamicProgramming/Leetcode_191_NumberOfOneBits)
+* [Leetcode 1937 : Maximum Number of Points with Cost](./src/LeetCodeProblems/DynamicProgramming/Leetcode_1937_MaximumNumberOfPointsWithCost)
 
 ### String Problems
 
@@ -108,6 +109,7 @@
 * [Leetcode 451 : Sort Characters By Frequency](./src/LeetCodeProblems/StringProblems/Leetcode_451_SortCharactersByFrequency_V1.cs)
 * [Leetcode 848 : Shifting Letters](./src/LeetCodeProblems/StringProblems/Leetcode_848_ShiftingLetters_V1.cs)
 * [Leetcode 856 : Score of parantheses](./src/LeetCodeProblems/StringProblems/Leetcode_856_ScoreOfParantheses)
+* [Leetcode 2125 : Number of Laser Beams in a Bank](./src/LeetCodeProblems/StringProblems/Leetcode_2125_NumberOfLaserBeamsInBank)
 
 ### Tree Problems
 
