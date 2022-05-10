@@ -136,6 +136,7 @@
 * [Leetcode 73: Set Matrix Zeroes](./src/LeetCodeProblems/MatrixProblems/LeetCode_73_SetMatrixZeroes/LeetCode_73_SetMatrixZeroes_V1.cs)
 * [Leetcode 48 : Rotate Image](./src/LeetCodeProblems/MatrixProblems/Leetcode_48_RotateImage)
 * [Leetcode 79 : Word Search](./src/LeetCodeProblems/MatrixProblems/Leetcode_79_WordSearch)
+* [Leetcode 1476 : Subrectangle Queries](./src/LeetCodeProblems/MatrixProblems/Leetcode_1476_SubrectangleQueries)
 
 ### Stack Problems
 
