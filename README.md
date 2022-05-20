@@ -137,6 +137,7 @@
 * [Leetcode 48 : Rotate Image](./src/LeetCodeProblems/MatrixProblems/Leetcode_48_RotateImage)
 * [Leetcode 79 : Word Search](./src/LeetCodeProblems/MatrixProblems/Leetcode_79_WordSearch)
 * [Leetcode 1476 : Subrectangle Queries](./src/LeetCodeProblems/MatrixProblems/Leetcode_1476_SubrectangleQueries)
+* [Leetcode 1222 : Queens That Can Attack the King](./src/LeetCodeProblems/MatrixProblems/Leetcode_1222_QueensThatCanAttackKing)
 
 ### Stack Problems
 
@@ -155,6 +156,7 @@
 * [Leetcode 2078 : Two Furthest Houses With Different Colors](./src/LeetCodeProblems/Greedy/Leetcode_2078_TwoFurthestHousesWithDifferentColors)
 * [Leetcode 134 : Gas Station](./src/LeetCodeProblems/Greedy/Leetcode_134_GasStation)
 * [Leetcode 1605 : Find Valid Matrix Given Row and Column Sums](./src/LeetCodeProblems/Greedy/Leetcode_1605_FindValidMatrixGivenRowAndColumnSums)
+* [Leetcode 1253 : Reconstruct a 2-Row Binary Matrix](./src/LeetCodeProblems/Greedy/Leetcode_1253_ReconstructTwoRowBinaryMatrix)
 
 ### BFS
 
