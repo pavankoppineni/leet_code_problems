@@ -103,6 +103,7 @@
 * [Leetcode 799 : Champagne Tower](./src/LeetCodeProblems/DynamicProgramming/Leetcode_799_ChampagneTower)
 * [Leetcode 191 : Number of 1 Bits](./src/LeetCodeProblems/DynamicProgramming/Leetcode_191_NumberOfOneBits)
 * [Leetcode 1937 : Maximum Number of Points with Cost](./src/LeetCodeProblems/DynamicProgramming/Leetcode_1937_MaximumNumberOfPointsWithCost)
+* [Leetcode 120 : Triangle](./src/LeetCodeProblems/DynamicProgramming/Leetcode_120_Triangle)
 
 ### String Problems
 
