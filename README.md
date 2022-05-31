@@ -111,6 +111,7 @@
 * [Leetcode 848 : Shifting Letters](./src/LeetCodeProblems/StringProblems/Leetcode_848_ShiftingLetters_V1.cs)
 * [Leetcode 856 : Score of parantheses](./src/LeetCodeProblems/StringProblems/Leetcode_856_ScoreOfParantheses)
 * [Leetcode 2125 : Number of Laser Beams in a Bank](./src/LeetCodeProblems/StringProblems/Leetcode_2125_NumberOfLaserBeamsInBank)
+* [Leetcode 318 : Maximum Product of Word Lengths](./src/LeetCodeProblems/StringProblems/Leetcode_318_MaximumProductOfWordLengths)
 
 ### Tree Problems
 
