@@ -56,6 +56,7 @@
 * [Leetcode 2012 : Sum of Beauty in the Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2012_SumOfBeautyInArray)
 * [Leetcode 2016 : Maximum Difference Between Increasing Elements](./src/LeetCodeProblems/ArrayProblems/Leetcode_2016_MaximumDifferenceBetweenIncreasingElements)
 * [Leetcode 525 : Contiguous Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_525_ContiguousArray)
+* [Leetcode 2155 : All Divisions With the Highest Score of a Binary Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2155_AllDivisionsWithTheHighestScoreOfBinaryArray)
 
 ### Binary Search Problems
 
