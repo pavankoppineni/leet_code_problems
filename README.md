@@ -70,6 +70,7 @@
 * [Leetcode 4 : Median of two sorted arrays(Same size)](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_4_MedianOfTwoSortedArrays_V1.cs)
 * [Leetcode 96 : Unique Binary Search Trees](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_96_UniqueBinarySearchTrees)
 * [Leetcode 1011 : Capacity To Ship Packages Within D Days](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1011_CapacityToShipPackagesWithinDDays)
+* [Leetcode 1894 : Find the Student that Will Replace the Chalk](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1894_FindStudentThatWillReplaceChalk)
 
 ### Backtracking Problems
 
