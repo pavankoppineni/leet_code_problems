@@ -58,6 +58,7 @@
 * [Leetcode 525 : Contiguous Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_525_ContiguousArray)
 * [Leetcode 2155 : All Divisions With the Highest Score of a Binary Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2155_AllDivisionsWithTheHighestScoreOfBinaryArray)
 * [Leetcode 2079 : Watering Plants](./src/LeetCodeProblems/ArrayProblems/Leetcode_2079_WateringPlants)
+* [Leetcode 2270 : Number of Ways to Split Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2270_NumberOfWaysToSplitArray)
 
 ### Binary Search Problems
 
