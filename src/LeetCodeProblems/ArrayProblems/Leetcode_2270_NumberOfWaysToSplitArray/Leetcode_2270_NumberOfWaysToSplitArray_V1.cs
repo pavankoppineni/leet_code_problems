@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace LeetCodeProblems.ArrayProblems.Leetcode_2270_NumberOfWaysToSplitArray
@@ -12,17 +13,17 @@ namespace LeetCodeProblems.ArrayProblems.Leetcode_2270_NumberOfWaysToSplitArray
         public int CalculateNumberOfWays(int[] values)
         {
             var numberofWays = 0;
-            var prefixArray = new long[values.Length];
-            prefixArray[0] = values[0];
-            for (var index = 1; index < values.Length; index++)
+            long totalSum = 0;
+            for (var index = 0; index < values.Length; index++)
             {
-                prefixArray[index] = values[index] + prefixArray[index - 1];
+                totalSum += values[index];
             }
 
-            for (var index = 0; index < prefixArray.Length - 1; index++)
+            long leftSum = 0;
+            for (var index = 0; index < values.Length - 1; index++)
             {
-                var leftSum = prefixArray[index];
-                var rightSum = prefixArray[values.Length - 1] - leftSum;
+                leftSum += values[index];
+                long rightSum = totalSum - leftSum;
                 if (leftSum >= rightSum)
                 {
                     numberofWays += 1;
