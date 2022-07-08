@@ -60,6 +60,7 @@
 * [Leetcode 2079 : Watering Plants](./src/LeetCodeProblems/ArrayProblems/Leetcode_2079_WateringPlants)
 * [Leetcode 2270 : Number of Ways to Split Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2270_NumberOfWaysToSplitArray)
 * [Leetcode 2256 : Minimum Average Difference](./src/LeetCodeProblems/ArrayProblems/Leetcode_2256_MinimumAverageDifference)
+* [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence)
 
 ### Binary Search Problems
 
@@ -74,7 +75,6 @@
 * [Leetcode 1011 : Capacity To Ship Packages Within D Days](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1011_CapacityToShipPackagesWithinDDays)
 * [Leetcode 1894 : Find the Student that Will Replace the Chalk](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1894_FindStudentThatWillReplaceChalk)
 * [Leetcode 1170 : Compare Strings by Frequency of the Smallest Character](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1170_CompareStringsByFrequencyOfSmallestCharacter)
-* [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence_)
 
 ### Backtracking Problems
 
