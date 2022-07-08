@@ -74,6 +74,7 @@
 * [Leetcode 1011 : Capacity To Ship Packages Within D Days](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1011_CapacityToShipPackagesWithinDDays)
 * [Leetcode 1894 : Find the Student that Will Replace the Chalk](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1894_FindStudentThatWillReplaceChalk)
 * [Leetcode 1170 : Compare Strings by Frequency of the Smallest Character](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1170_CompareStringsByFrequencyOfSmallestCharacter)
+* [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence_)
 
 ### Backtracking Problems
 
