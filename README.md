@@ -60,6 +60,7 @@
 * [Leetcode 2079 : Watering Plants](./src/LeetCodeProblems/ArrayProblems/Leetcode_2079_WateringPlants)
 * [Leetcode 2270 : Number of Ways to Split Array](./src/LeetCodeProblems/ArrayProblems/Leetcode_2270_NumberOfWaysToSplitArray)
 * [Leetcode 2256 : Minimum Average Difference](./src/LeetCodeProblems/ArrayProblems/Leetcode_2256_MinimumAverageDifference)
+* [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence)
 
 ### Binary Search Problems
 
