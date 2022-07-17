@@ -7,6 +7,7 @@
 ### Sliding Window Problems
 
 * [Leetcode 1423 : Maximum Points You Can Obtain From Cards](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_1423_MaximumPointsYouCanObtainFromCards_V1.cs)
+* [Leetcode 413 : Arithmetic Slices](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_413_ArithmeticSlices)
 
 ### Math Problems
 
@@ -137,6 +138,7 @@
 * [Leetcode 437 : Path Sum III](./src/LeetCodeProblems/TreeProblems/Leetcode_437_PathSumIII)
 * [Leetcode 105 : Construct Binary Tree from Preorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_105_ConstructBinaryTreeFromPreorderAndInorderTraversal)
 * [Leetcode 106 : Construct Binary Tree from Postorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_106_ConstructBinaryTreeFromPostorderAndInorderTraversal)
+* [Leetcode 100 : Same Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_100_SameTree)
 
 ### Matrix Problems
 
