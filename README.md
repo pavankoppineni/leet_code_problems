@@ -78,6 +78,7 @@
 * [Leetcode 1894 : Find the Student that Will Replace the Chalk](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1894_FindStudentThatWillReplaceChalk)
 * [Leetcode 1170 : Compare Strings by Frequency of the Smallest Character](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1170_CompareStringsByFrequencyOfSmallestCharacter)
 * [Leetcode 1712 : Ways to Split Array Into Three Subarrays](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1712_WaysToSplitArrayIntoThreeSubarrays)
+* [Leetcode 240 : Search a 2D Matrix II](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_240_Search2DMatrix)
 
 ### Backtracking Problems
 
