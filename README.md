@@ -8,6 +8,7 @@
 
 * [Leetcode 1423 : Maximum Points You Can Obtain From Cards](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_1423_MaximumPointsYouCanObtainFromCards_V1.cs)
 * [Leetcode 413 : Arithmetic Slices](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_413_ArithmeticSlices)
+* [Leetcode 2348 : Number of Zero-Filled Subarrays](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_2348_NumberOfZeroFilledSubarrays)
 
 ### Math Problems
 
