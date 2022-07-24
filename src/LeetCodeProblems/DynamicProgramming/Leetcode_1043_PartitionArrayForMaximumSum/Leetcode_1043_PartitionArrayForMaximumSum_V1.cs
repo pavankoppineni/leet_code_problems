@@ -19,5 +19,17 @@ namespace LeetCodeProblems.DynamicProgramming.Leetcode_1043_PartitionArrayForMax
             _size = size;
             return 0;
         }
+
+        private int CalculateSum(int start, int end)
+        {
+            var length = end - start + 1;
+            var max = 0;
+            while(start <= end)
+            {
+                max = Math.Max(max, _values[start]);
+                start++;
+            }
+            return max * length;
+        }
     }
 }
