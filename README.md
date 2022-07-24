@@ -77,6 +77,7 @@
 * [Leetcode 1011 : Capacity To Ship Packages Within D Days](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1011_CapacityToShipPackagesWithinDDays)
 * [Leetcode 1894 : Find the Student that Will Replace the Chalk](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1894_FindStudentThatWillReplaceChalk)
 * [Leetcode 1170 : Compare Strings by Frequency of the Smallest Character](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1170_CompareStringsByFrequencyOfSmallestCharacter)
+* [Leetcode 1712 : Ways to Split Array Into Three Subarrays](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_1712_WaysToSplitArrayIntoThreeSubarrays)
 
 ### Backtracking Problems
 
