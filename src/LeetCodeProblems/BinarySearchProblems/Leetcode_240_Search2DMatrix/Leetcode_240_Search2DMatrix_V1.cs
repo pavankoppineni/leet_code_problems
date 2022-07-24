@@ -54,12 +54,7 @@ namespace LeetCodeProblems.BinarySearchProblems.Leetcode_240_Search2DMatrix
 
             //Case Three : When  _target is greater than first value of row and less than last value of row
             //Action : Search top section of matrix including current row
-            var isPresentInRow = SearchInRow(mid, 0, _columns - 1);
-            if (isPresentInRow)
-            {
-                return true;
-            }
-            var searchTop = SearchForRow(startRow, mid - 1);
+            var searchTop = SearchForRow(startRow, mid);
             if (searchTop)
             {
                 return true;
