@@ -143,6 +143,7 @@
 * [Leetcode 105 : Construct Binary Tree from Preorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_105_ConstructBinaryTreeFromPreorderAndInorderTraversal)
 * [Leetcode 106 : Construct Binary Tree from Postorder and Inorder Traversal](./src/LeetCodeProblems/TreeProblems/Leetcode_106_ConstructBinaryTreeFromPostorderAndInorderTraversal)
 * [Leetcode 100 : Same Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_100_SameTree)
+* [Leetcode 606 : Construct String from Binary Tree](./src/LeetCodeProblems/TreeProblems/Leetcode_606_ConstructStringFromBinaryTree)
 
 ### Matrix Problems
 
