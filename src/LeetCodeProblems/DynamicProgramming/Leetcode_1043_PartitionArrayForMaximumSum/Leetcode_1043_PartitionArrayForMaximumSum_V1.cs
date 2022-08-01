@@ -17,19 +17,41 @@ namespace LeetCodeProblems.DynamicProgramming.Leetcode_1043_PartitionArrayForMax
             _lookup = new Dictionary<int, int>();
             _values = values;
             _size = size;
-            return 0;
+            return CalculateMaximumSum(0);
         }
 
-        private int CalculateSum(int start, int end)
+        private int CalculateMaximumSum(int startIndex)
         {
-            var length = end - start + 1;
-            var max = 0;
-            while(start <= end)
+            if (startIndex >= _values.Length)
             {
-                max = Math.Max(max, _values[start]);
-                start++;
+                return 0;
             }
-            return max * length;
+
+            if (_lookup.ContainsKey(startIndex))
+            {
+                return _lookup[startIndex];
+            }
+
+            var maxSum = 0;
+            var maxValue = _values[startIndex];
+            for (var index = 0; index < _size; index++)
+            {
+                if (startIndex + index >= _values.Length)
+                {
+                    continue;
+                }
+                if (_values[startIndex + index] > maxValue)
+                {
+                    maxValue = _values[startIndex + index];
+                }
+                var currentSum = CalculateMaximumSum(startIndex + index + 1) + (maxValue * (index + 1));
+                if (currentSum > maxSum)
+                {
+                    maxSum = currentSum;
+                }
+            }
+            _lookup.Add(startIndex, maxSum);
+            return maxSum;
         }
     }
 }

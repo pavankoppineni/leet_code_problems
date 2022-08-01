@@ -13,10 +13,10 @@ namespace LeetCodeProblems.Tests.DynamicProgramming.Leetcode_1043_PartitionArray
         public void Given_IntegerArray_When_CalculateMaximumSum_Then_ShouldReturnMaximumSum()
         {
             //Given
-            var values = new int[] { 1, 15, 7, 9 };
+            var values = new int[] { 1, 15, 7, 9, 2, 5, 10 };
             var problem = new Leetcode_1043_PartitionArrayForMaximumSum_V1();
-            var expectedSum = 10;
-            var subArraySize = 2;
+            var expectedSum = 84;
+            var subArraySize = 3;
 
             //When
             var actualSum = problem.CalculateMaximumSum(values, subArraySize);
