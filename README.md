@@ -117,6 +117,7 @@
 * [Leetcode 1937 : Maximum Number of Points with Cost](./src/LeetCodeProblems/DynamicProgramming/Leetcode_1937_MaximumNumberOfPointsWithCost)
 * [Leetcode 120 : Triangle](./src/LeetCodeProblems/DynamicProgramming/Leetcode_120_Triangle)
 * [Leetcode 368 : Largest Divisible Subset](./src/LeetCodeProblems/DynamicProgramming/Leetcode_368_LargestDivisibleSubset)
+* [Leetcode 1043 : Partition Array for Maximum Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_1043_PartitionArrayForMaximumSum)
 
 ### String Problems
 
