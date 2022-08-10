@@ -11,7 +11,7 @@ namespace LeetCodeProblems.Shell
 {
     class Program
     {
-        public static Task Main()
+        public static void Main()
         {
         }
     }
