@@ -64,6 +64,7 @@
 * [Leetcode 2256 : Minimum Average Difference](./src/LeetCodeProblems/ArrayProblems/Leetcode_2256_MinimumAverageDifference)
 * [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence)
 * [Leetcode 2274 : Maximum Consecutive Floors Without Special Floors](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_2274_MaximumConsecutiveFloorsWithoutSpecialFloors)
+* [Leetcode 2358 : Maximum Number of Groups Entering a Competition](./src/LeetCodeProblems/ArrayProblems/Leetcode_2358_MaximumNumberOfGroupsEnteringCompetition)
 
 ### Binary Search Problems
 
