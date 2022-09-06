@@ -120,7 +120,7 @@
 * [Leetcode 120 : Triangle](./src/LeetCodeProblems/DynamicProgramming/Leetcode_120_Triangle)
 * [Leetcode 368 : Largest Divisible Subset](./src/LeetCodeProblems/DynamicProgramming/Leetcode_368_LargestDivisibleSubset)
 * [Leetcode 1043 : Partition Array for Maximum Sum](./src/LeetCodeProblems/DynamicProgramming/Leetcode_1043_PartitionArrayForMaximumSum)
-* [Leetcode 1043 : Number of Ways to Reach a Position After Exactly k Steps](./src/LeetCodeProblems/DynamicProgramming/Leetcode_2400_NumberOfWaysToReachAPositionAfterExactlyKSteps)
+* [Leetcode 2400 : Number of Ways to Reach a Position After Exactly k Steps](./src/LeetCodeProblems/DynamicProgramming/Leetcode_2400_NumberOfWaysToReachAPositionAfterExactlyKSteps)
 
 ### String Problems
 
