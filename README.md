@@ -65,6 +65,7 @@
 * [Leetcode 128 : Longest Consecutive Sequence](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_128_LongestConsecutiveSequence)
 * [Leetcode 2274 : Maximum Consecutive Floors Without Special Floors](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_2274_MaximumConsecutiveFloorsWithoutSpecialFloors)
 * [Leetcode 2358 : Maximum Number of Groups Entering a Competition](./src/LeetCodeProblems/ArrayProblems/Leetcode_2358_MaximumNumberOfGroupsEnteringCompetition)
+* [Leetcode 2405 : Optimal Partition Of String](./src/LeetCodeProblems/ArrayProblems/Leetcode_2405_OptimalPartitionOfString)
 
 ### Binary Search Problems
 
@@ -207,3 +208,4 @@
 ### GeeksForGeeks
 
 * [Minimum Swaps required to group all 1s together](./src/LeetCodeProblems/GFG_Problems/MinimumSwapsRequiredToGroupAllOnesTogether)
+* [Sum String](./src/LeetCodeProblems/GFG_Problems/SumString)
