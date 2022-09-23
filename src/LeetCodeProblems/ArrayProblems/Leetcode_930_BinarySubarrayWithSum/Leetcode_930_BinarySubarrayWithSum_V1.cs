@@ -17,10 +17,23 @@ namespace LeetCodeProblems.ArrayProblems.Leetcode_930_BinarySubarrayWithSum
             for (var index = 0; index < values.Length; index++)
             {
                 prefixSum += values[index];
+                if (prefixSum == target)
+                {
+                    count += 1;
+                }
                 var remaining = prefixSum - target;
                 if (lookup.ContainsKey(remaining))
                 {
                     count += lookup[remaining];
+                }
+
+                if (lookup.ContainsKey(prefixSum))
+                {
+                    lookup[prefixSum]++;
+                }
+                else
+                {
+                    lookup.Add(prefixSum, 1);
                 }
             }
             return count;
