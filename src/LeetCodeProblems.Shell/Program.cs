@@ -9,7 +9,7 @@ using LeetCodeProblems.StringProblems;
 
 namespace LeetCodeProblems.Shell
 {
-    class Program
+    public class Program
     {
         public static void Main()
         {
