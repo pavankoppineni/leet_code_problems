@@ -66,6 +66,7 @@
 * [Leetcode 2274 : Maximum Consecutive Floors Without Special Floors](./src/LeetCodeProblems/BinarySearchProblems/Leetcode_2274_MaximumConsecutiveFloorsWithoutSpecialFloors)
 * [Leetcode 2358 : Maximum Number of Groups Entering a Competition](./src/LeetCodeProblems/ArrayProblems/Leetcode_2358_MaximumNumberOfGroupsEnteringCompetition)
 * [Leetcode 2405 : Optimal Partition Of String](./src/LeetCodeProblems/ArrayProblems/Leetcode_2405_OptimalPartitionOfString)
+* [Leetcode 2419 : Longest Subarray With Maximum Bitwise AND](./src/LeetCodeProblems/ArrayProblems/Leetcode_2419_LongestSubarrayWithMaximumBitwiseAND_V1.cs)
 
 ### Binary Search Problems
 
