@@ -67,6 +67,7 @@
 * [Leetcode 2358 : Maximum Number of Groups Entering a Competition](./src/LeetCodeProblems/ArrayProblems/Leetcode_2358_MaximumNumberOfGroupsEnteringCompetition)
 * [Leetcode 2405 : Optimal Partition Of String](./src/LeetCodeProblems/ArrayProblems/Leetcode_2405_OptimalPartitionOfString)
 * [Leetcode 2419 : Longest Subarray With Maximum Bitwise AND](./src/LeetCodeProblems/ArrayProblems/Leetcode_2419_LongestSubarrayWithMaximumBitwiseAND_V1.cs)
+* [Leetcode 2429 : Minimize XOR](./src/LeetCodeProblems/ArrayProblems/Leetcode_2429_MinimizeXOR_V1.cs)
 
 ### Binary Search Problems
 
@@ -166,6 +167,7 @@
 * [Leetcode 1222 : Queens That Can Attack the King](./src/LeetCodeProblems/MatrixProblems/Leetcode_1222_QueensThatCanAttackKing)
 * [Leetcode 764 : Largest Plus Sign](./src/LeetCodeProblems/MatrixProblems/Leetcode_764_LargestPlusSign)
 * [Leetcode 2352 : Equal Row and Column Pairs](./src/LeetCodeProblems/MatrixProblems/Leetcode_2352_EqualRowAndColumnPairs)
+* [Leetcode 2428 : Maximum Sum of an Hourglass](./src/LeetCodeProblems/MatrixProblems/Leetcode_2428_MaximumSumOfHourglass_V1.cs)
 
 ### Stack Problems
 
