@@ -68,6 +68,7 @@
 * [Leetcode 2405 : Optimal Partition Of String](./src/LeetCodeProblems/ArrayProblems/Leetcode_2405_OptimalPartitionOfString)
 * [Leetcode 2419 : Longest Subarray With Maximum Bitwise AND](./src/LeetCodeProblems/ArrayProblems/Leetcode_2419_LongestSubarrayWithMaximumBitwiseAND_V1.cs)
 * [Leetcode 2429 : Minimize XOR](./src/LeetCodeProblems/ArrayProblems/Leetcode_2429_MinimizeXOR_V1.cs)
+* [Leetcode 1010 : Pairs of Songs With Total Durations Divisible by 60](./src/LeetCodeProblems/ArrayProblems/Leetcode_1010_PairsOfSongsWithTotalDurationsDivisibleBy60_V1.cs)
 
 ### Binary Search Problems
 
