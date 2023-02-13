@@ -18,22 +18,37 @@ namespace LeetCodeProblems.Shell
     {
         public static void Main()
         {
-            var inProgress = new List<string>();
-            var compPortalsSet = new HashSet<string>();
-            var compPortals = File.ReadAllLines(@"C:\Users\pkoppineni\source\repos\leet_code_problems\src\LeetCodeProblems.Shell\Files\migrated-portals.txt");
-            var livePortals = File.ReadAllLines(@"C:\Users\pkoppineni\source\repos\leet_code_problems\src\LeetCodeProblems.Shell\Files\live-portals.txt");
-            foreach (var livePortal in livePortals)
-            {
-                compPortalsSet.Add(livePortal.ToUpper());
-            }
-            foreach(var compPortal in compPortals)
-            {
-                if (compPortalsSet.Contains(compPortal.ToUpper()))
-                {
-                    inProgress.Add(compPortal.ToUpper());
-                }
-            }
-            var a = String.Join("\n", inProgress);
+            
+        }
+    }
+
+    public class Tracer : IDisposable
+    {
+        private string _name;
+        private static Tracer _current;
+        private Tracer _parent;
+        public Tracer(Tracer parent, string name)
+        {
+            _name = name;
+            _parent = parent;
+            _current = this;
+        }
+
+        public Tracer(string name)
+        {
+            _name = name;
+            _parent = _current;
+            _current = this;
+        }
+
+        public void Log(string message)
+        {
+            Console.WriteLine(message);
+        }
+
+        public void Dispose()
+        {
+            _current = _parent;
         }
     }
 }
