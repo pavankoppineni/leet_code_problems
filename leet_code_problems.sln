@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29709.97
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C69863D5-5033-45FC-AB16-26A999934EAC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{81A30C06-ED4C-4646-AA87-549AE0B61FFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems.Shell", "src\LeetCodeProblems.Shell\LeetCodeProblems.Shell.csproj", "{BF680A61-9668-4852-8F9E-6E69070C63AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeProblems.Shell", "src\LeetCodeProblems.Shell\LeetCodeProblems.Shell.csproj", "{BF680A61-9668-4852-8F9E-6E69070C63AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems", "src\LeetCodeProblems\LeetCodeProblems.csproj", "{C327C5C6-7677-43A9-B839-40A39FD9F094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeProblems", "src\LeetCodeProblems\LeetCodeProblems.csproj", "{C327C5C6-7677-43A9-B839-40A39FD9F094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems.Tests", "test\LeetCodeProblems.Tests\LeetCodeProblems.Tests.csproj", "{41C98E45-CDBA-4999-AB14-4E0B21C42A40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeProblems.Tests", "test\LeetCodeProblems.Tests\LeetCodeProblems.Tests.csproj", "{41C98E45-CDBA-4999-AB14-4E0B21C42A40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
