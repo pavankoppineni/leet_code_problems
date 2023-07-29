@@ -26,7 +26,7 @@ namespace LeetCodeProblems.MatrixProblems
                 var current = Math.Max(rowTwoPrefixSum, rowOneSum - (rowOnePrefixSum + grid[0][col]));
                 if (current < roboTwoOptimalPoints)
                 {
-                    roboTwoOptimalPoints = currentRobotTwoOptimal;
+                    roboTwoOptimalPoints = current;
                 }
                 rowOnePrefixSum += grid[0][col];
                 rowTwoPrefixSum += grid[1][col];
