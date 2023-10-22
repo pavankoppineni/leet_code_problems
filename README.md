@@ -3,6 +3,7 @@
 ### Resources
 
 * https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
+* https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
 
 ### Sliding Window Problems
 
@@ -10,7 +11,7 @@
 * [Leetcode 413 : Arithmetic Slices](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_413_ArithmeticSlices)
 * [Leetcode 2348 : Number of Zero-Filled Subarrays](./src/LeetCodeProblems/SlidingWindowProblems/Leetcode_2348_NumberOfZeroFilledSubarrays)
 
-### Math Problems
+### Math Problems 
 
 * [Leetcode 9 : Palindrome Number](./src/LeetCodeProblems/MathProblems/Leetcode_9_PalindromeNumber_V1.cs)
 * [Leetcode 204 : Count Primes](./src/LeetCodeProblems/MathProblems/Leetcode_204_CountPrimes)
