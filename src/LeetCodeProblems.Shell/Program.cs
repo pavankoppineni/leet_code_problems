@@ -1,5 +1,11 @@
-﻿using LeetCodeProblems.ArrayProblems;
+﻿using DocumentFormat.OpenXml;
+using DocumentFormat.OpenXml.Packaging;
+using DocumentFormat.OpenXml.Spreadsheet;
+using LeetCodeProblems.ArrayProblems;
 using LeetCodeProblems.BinarySearchProblems;
+using LeetCodeProblems.Greedy;
+using LeetCodeProblems.MatrixProblems;
+using LeetCodeProblems.SlidingWindowProblems;
 using LeetCodeProblems.TwoPointers;
 using Newtonsoft.Json;
 using System;
@@ -11,6 +17,7 @@ using System.Net;
 using System.Net.Http;
 using System.Security.Authentication;
 using System.Security.Cryptography.X509Certificates;
+using System.Text;
 using System.Text.Json.Serialization;
 using System.Web;
 
@@ -18,14 +25,18 @@ namespace LeetCodeProblems.Shell
 {
     public class Program
     {
-        static IList<IDictionary<string, string>> lookuptables;
         public static void Main()
         {
-            var values = new int[] { 3,1,2 };
-            var values1 = new int[] { 8,5,8 };
-            var success = 16;
-            var problem = new Leetcode_2300_SuccessfulPairsOfSpellsAndPortions_V1();
-            var resulst = problem.CalculateSuccessfulePairs(values, values1, success);
+            var problem = new Leetcode_2679_SumInMatrix_V1();
+            var grid = new int[4][]
+            {
+                new int[] { 7, 2, 1 },
+                new int[] { 6, 4, 2 },
+                new int[] {6,5,3 },
+                new int[]{3,2,1 }
+            };
+
+            var result = problem.CalculateSum(grid);
         }
     }
 }
