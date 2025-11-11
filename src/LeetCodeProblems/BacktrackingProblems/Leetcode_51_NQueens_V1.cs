@@ -10,35 +10,129 @@ namespace LeetCodeProblems.BacktrackingProblems
     /// </summary>
     public class Leetcode_51_NQueens_V1
     {
-        private IList<int[]> _solutions;
-        private HashSet<int> _filledColumns;
+        private int _rows;
+        private FilledPositions _filledPositions;
+        private IList<Position[]> _validPositions;
+        private IList<IList<string>> _result;
+
         public IList<IList<string>> FindSolutions(int n)
         {
-            _filledColumns = new HashSet<int>();
-            _solutions = new List<int[]>();
-            return null;
+            _rows = n;
+            _filledPositions = new FilledPositions(n);
+            _validPositions = new List<Position[]>();
+            _result = new List<IList<string>>();
+            FindSolution(0, new Position[n]);
+            return _result;
         }
 
-        private void FindSolution(int queenCount, int length, int[] position)
+        private IList<string> ToPositionStrings(Position[] positions)
         {
-            if (queenCount <= 0)
+            var result = new List<string>();
+            for (var row = 0; row < _rows; row++)
             {
-                _solutions.Add(position.ToArray());
+                var sb = new StringBuilder();
+                for (var column = 0; column < _rows; column++)
+                {
+                    if (positions[row].Column == column)
+                    {
+                        sb.Append('Q');
+                    }
+                    else
+                    {
+                        sb.Append('.');
+                    }
+                }
+                result.Add(sb.ToString());
+            }
+
+            return result;
+        }
+
+        private void FindSolution(int queenIndex, Position[] positions)
+        {
+            if (queenIndex >= _rows)
+            {
+                _validPositions.Add(positions.ToArray());
+                var positionStrings = ToPositionStrings(positions);
+                _result.Add(positionStrings);
                 return;
             }
 
-            for (var index = 0; index < length; index++)
+            for (var column = 0; column < _rows; column++)
             {
-                if (_filledColumns.Contains(index))
+                var canFillPosition = _filledPositions.CanPlaceQueen(queenIndex, column);
+                if (!canFillPosition)
                 {
                     continue;
                 }
-                _filledColumns.Add(index);
-                position[queenCount] = index;
-                FindSolution(queenCount + 1, length, position);
-                position[queenCount] = -1;
-                _filledColumns.Remove(index);
+
+                _filledPositions.AddPosition(queenIndex, column);
+                var position = new Position
+                {
+                    Row = queenIndex,
+                    Column = column
+                };
+                positions[queenIndex] = position;
+                FindSolution(queenIndex + 1, positions);
+                positions[queenIndex] = null;
+                _filledPositions.RemovePosition(queenIndex, column);
             }
+        }
+    }
+
+    public class Position
+    {
+        public int Row { get; set; }
+        public int Column { get; set; }
+    }
+
+    public class FilledPositions
+    {
+        private readonly int _rows;
+        public FilledPositions(int rows)
+        {
+            _rows = rows;
+            FilledColumns = new HashSet<int>();
+            FilledRows = new HashSet<int>();
+            FilledLeftDiagonals = new HashSet<int>();
+            FilledRightDiagonals = new HashSet<int>();
+        }
+
+        public HashSet<int> FilledColumns { get; private set; }
+        public HashSet<int> FilledRows { get; private set; }
+        public HashSet<int> FilledLeftDiagonals { get; private set; }
+        public HashSet<int> FilledRightDiagonals { get; private set; }
+
+        public void AddPosition(int row, int column)
+        {
+            FilledColumns.Add(column);
+            FilledRows.Add(row);
+            FilledRightDiagonals.Add(column + row);
+            FilledLeftDiagonals.Add(row + (_rows - column - 1));
+        }
+
+        public void RemovePosition(int row, int column)
+        {
+            FilledColumns.Remove(column);
+            FilledRows.Remove(row);
+            FilledRightDiagonals.Remove(column + row);
+            FilledLeftDiagonals.Remove(row + (_rows - column - 1));
+        }
+
+        public bool CanPlaceQueen(int row, int column)
+        {
+            var canPlace = FilledRows.Contains(row)
+                || FilledColumns.Contains(column)
+                || FilledRightDiagonals.Contains(row + column)
+                || FilledLeftDiagonals.Contains(row + (_rows - column - 1));
+            return !canPlace;
+        }
+
+        private IEnumerable<HashSet<int>> GetAllSets()
+        {
+            yield return FilledColumns;
+            yield return FilledRows;
+            yield return FilledLeftDiagonals;
         }
     }
 }
